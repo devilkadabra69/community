@@ -1,0 +1,14 @@
+.form_inner_container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    /* Space between fields */
+    max-width: 60%;
+    /* Keeps form width reasonable */
+    margin: auto;
+    /* Centers the form */
+}
+
+.login_button_container {
+    width: 100%;
+}
